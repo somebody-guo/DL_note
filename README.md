@@ -1,4 +1,4 @@
-# Deeplearning.ai notes#
+# Deeplearning.ai notes
 ---
 implement the assignments with chinese guides.  
 
