@@ -1,6 +1,10 @@
 # Deeplearning.ai notes
 ---
-implement the assignments with chinese guides.  
+you need:  
+python3 + jupyter notebook  
+
+---
+implement the assignments with chinese guides.  
 
 all sources come from **Deeplearning.ai**  
 
